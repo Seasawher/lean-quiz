@@ -1,23 +1,23 @@
 # README
 
-Lean4 を使ったクイズです．
+Here is a quiz on Lean4. Replace `sorry` with the correct code.
 
-## 問題
+## Quizzes
 
-* [RemoveOnce](./LeanQuiz/RemoveOnce.lean) リストから高々１つだけ要素を削除する関数について．
+* [RemoveOnce](./LeanQuiz/RemoveOnce.lean) Implements a function that removes at most one element from a list.
 
-## 回答提出方法
+## How to submit your answer
 
-回答を提出する必要はありませんが，もし提出してくださる場合は以下の２通りの方法を想定しています．
+You are not required to submit an answer, but it would be my pleasure if you do. You can submit your answer in one of the following two ways.
 
-### Lean4 Web を使う方法
+### Using Lean4 Web
 
-[Lean4 Web](https://lean.math.hhu.de/)を使って回答を書き, そのURLを issue で共有してください．
+Please write your answer using [Lean4 Web](https://lean.math.hhu.de/) and share the URL with the issue.
 
-### PR を使う方法
+### Using PR
 
-* このリポジトリを Fork します
+* Create a fork of this repository.
 
-* Fork したリポジトリを編集して回答を書きます
+* Edit your fork and write your answer.
 
-* このリポジトリに Pull Request を投げます.
+* Open a pull request to this repository.
