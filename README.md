@@ -5,6 +5,7 @@ Here is a quiz on Lean4. Replace `sorry` with the correct code.
 ## Quizzes
 
 * [RemoveOnce](./LeanQuiz/RemoveOnce.lean) Implements a function that removes at most one element from a list.
+* [Fibonacci](./LeanQuiz/Fibonacci.lean) Show that the two well-known representations of the Fibonacci sequence are equivalent.
 
 ## How to submit your answer
 
