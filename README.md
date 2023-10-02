@@ -2,9 +2,9 @@
 
 Lean4 を使ったクイズです．
 
-## 回答方法
+## 問題
 
-LeanQuiz フォルダ内の `.lean` ファイルにある `sorry` を埋めてください．
+* [RemoveOnce](./LeanQuiz/RemoveOnce.lean) リストから高々１つだけ要素を削除する関数について．
 
 ## 回答提出方法
 
